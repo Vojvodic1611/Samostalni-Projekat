@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1588861178 source:c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\main.cpp
+	<iostream>
+	"List.hpp"
+	"Actions.hpp"
+	"Animal.hpp"
+	"Being.hpp"
+	"Building.hpp"
+	"Camp.hpp"
+	"Carriage.hpp"
+	"Character.hpp"
+	"Consumables.hpp"
+	"Dialogue.hpp"
+	"Dinstring.hpp"
+	"Enviorment.hpp"
+	"Game.hpp"
+	"Horse.hpp"
+	"Interactions.hpp"
+	"List.hpp"
+	"Mission.hpp"
+	"NPC.hpp"
+	"Outfit.hpp"
+	"Player.hpp"
+	"Shop.hpp"
+	"Story.hpp"
+	"Tent.hpp"
+	"Town.hpp"
+	"Weapon.hpp"
+	"Dinstring.hpp"
+	"Dialogue.hpp"
+	"Interactions.hpp"
+
+1588533215 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\list.hpp
+	<stdlib.h>
+	<iostream>
+
+1588532993 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\dinstring.hpp
+	<iostream>
+
+1588862244 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\dialogue.hpp
+	<iostream>
+	"Dinstring.hpp"
+
+1588795148 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\interactions.hpp
+	<iostream>
+	"List.hpp"
+	"Dialogue.hpp"
+
+1588860823 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\actions.hpp
+	<iostream>
+	"Dinstring.hpp"
+
+1588798160 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\animal.hpp
+	"Character.hpp"
+
+1588862924 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\character.hpp
+	<iostream>
+	"Dialogue.hpp"
+	"Weapon.hpp"
+	"Outfit.hpp"
+	"List.hpp"
+	"Consumables.hpp"
+	"Being.hpp"
+
+1588861534 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\weapon.hpp
+	<iostream>
+	"Dinstring.hpp"
+	"List.hpp"
+
+1588862274 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\outfit.hpp
+	<iostream>
+	"Dinstring.hpp"
+
+1588794218 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\consumables.hpp
+	<iostream>
+	"Dinstring.hpp"
+	"List.hpp"
+
+1588798315 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\being.hpp
+	<iostream>
+	"Consumables.hpp"
+	"List.hpp"
+
+1588793559 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\building.hpp
+	<iostream>
+	"Dinstring.hpp"
+	"NPC.hpp"
+	"List.hpp"
+
+1588797566 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\npc.hpp
+	<iostream>
+	"Character.hpp"
+	"Interactions.hpp"
+	"List.hpp"
+
+1588793672 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\camp.hpp
+	<iostream>
+	"List.hpp"
+	"Tent.hpp"
+	"Dinstring.hpp"
+
+1588628947 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\tent.hpp
+	<iostream>
+	"NPC.hpp"
+
+1588793794 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\carriage.hpp
+	<iostream>
+	"List.hpp"
+	"Horse.hpp"
+	"Consumables.hpp"
+
+1588795083 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\horse.hpp
+	"Interactions.hpp"
+	"List.hpp"
+	"Animal.hpp"
+
+1588794410 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\enviorment.hpp
+	<iostream>
+	"List.hpp"
+	"Animal.hpp"
+
+1588794924 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\game.hpp
+	<iostream>
+	"Player.hpp"
+	"List.hpp"
+	"Dinstring.hpp"
+	"Town.hpp"
+	"Camp.hpp"
+	"Enviorment.hpp"
+	"Story.hpp"
+	"NPC.hpp"
+	"Carriage.hpp"
+
+1588863058 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\player.hpp
+	<iostream>
+	"List.hpp"
+	"Actions.hpp"
+	"Character.hpp"
+
+1588797057 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\town.hpp
+	<iostream>
+	"Building.hpp"
+	"List.hpp"
+	"NPC.hpp"
+	"Shop.hpp"
+	"Dinstring.hpp"
+
+1588796454 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\shop.hpp
+	<iostream>
+	"List.hpp"
+	"Building.hpp"
+	"Weapon.hpp"
+	"Consumables.hpp"
+	"Interactions.hpp"
+
+1588796797 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\story.hpp
+	<iostream>
+	"Mission.hpp"
+	"List.hpp"
+
+1588795375 c:\users\stojan\documents\github\programiranje-aktivnost\red_dead_redemption_projekat\mission.hpp
+	<iostream>
+	"List.hpp"
+	"NPC.hpp"
+	"Weapon.hpp"
+	"Consumables.hpp"
+
